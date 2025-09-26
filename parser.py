@@ -28,6 +28,7 @@ DAT = "DAT"
 
 # Fixed area stats for explicit areas
 LEX_SIZE = 20
+DET_SIZE = 2
 
 # Actions
 DISINHIBIT = "DISINHIBIT"
